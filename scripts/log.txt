@@ -1,0 +1,7 @@
+Generating VM ...
+
+Début d'installation...
+Récupération du fichier vmlinuz...                        | 5.1 MB  00:00     
+Récupération du fichier  77% [=============    ]  0.0 B/s |  32 MB  --:-- ETA Récupération du fichier initrd.img...                     |  41 MB  00:00     
+[   0,0] Examining the guest ...
+Process Completed. Use the 'virt start test-vm' command to start the newly created VM.
